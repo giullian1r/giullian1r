@@ -19,23 +19,23 @@ Currently exploring Linux environment development while learning C++ for competi
 
 ### My favorite languages and tools
 <p>
-  <img alt="cpp" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
-  <img alt="c" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
-  <img alt="git" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-  <img alt="linux" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
-  <img alt="vim" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" />
-  <img alt="github" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
+  <img alt="cpp" height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
+  <img alt="c" height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
+  <img alt="git" height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+  <img alt="linux" height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
+  <img alt="vim" height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" />
+  <img alt="github" height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
 </p>
 
 ### My favorite creative tools
 <p>
-  <img alt="markdown" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Markdown-Dark.svg" />
-  <img alt="notion" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" />
-  <img alt="photoshop" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" />
-  <img alt="afeteffects" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AfterEffects.svg" />
-  <img alt="html" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-  <img alt="css" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-  <img alt="bootstrap" height="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" />
+  <img alt="markdown" height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Markdown-Dark.svg" />
+  <img alt="notion" height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" />
+  <img alt="photoshop" height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" />
+  <img alt="afeteffects" height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AfterEffects.svg" />
+  <img alt="html" height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+  <img alt="css" height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+  <img alt="bootstrap" height="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" />
   
 #
 
