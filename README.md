@@ -7,8 +7,9 @@ Currently exploring Linux environment development while learning C++ for competi
 ### Infos
   - 🏠 Paraná, Brazil
   - 🏦 Computer Science Student at UFPR
-  - 🙋 Volunteering in Informatics for Immigrants 
+  - 🙋 Volunteering in [Informatic for Immigrants](https://web.inf.ufpr.br/pet/projetos/imigrantes/), organized by PET computação<br>
   - 🎨 Artist in my free time
+    
 
 ### Hobbies
 - 💻 **Developing Inspiring Projects**: I’m always working on personal projects that captivate my curiosity.
