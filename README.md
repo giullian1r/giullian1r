@@ -2,7 +2,7 @@
 I’m a Computer Science student and an algorithms enthusiast.
 Currently exploring Linux environment development while learning C++ for competitive programming. <br>
 ## About me
-<img align="right" alt="GIF" height="180px" src="https://i.giphy.com/TzeH3xp9z7ila.webp" />
+<img align="right" alt="GIF" height="150px" src="https://i.giphy.com/TzeH3xp9z7ila.webp" />
 
 ### Infos
   - 🏠 Paraná, Brazil
